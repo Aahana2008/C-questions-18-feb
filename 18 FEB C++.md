@@ -1,6 +1,7 @@
 # C++ PRGRAMS
 ### Q1. Student Class
 <img width="1160" height="771" alt="image" src="https://github.com/user-attachments/assets/0d4ee401-f4e7-4a73-8091-4a1fadf098a1" />
+
 ### OUTPUT
 <img width="513" height="388" alt="image" src="https://github.com/user-attachments/assets/4046d976-19eb-4c3b-bac8-c19422d7e8fc" />
 
@@ -16,6 +17,7 @@
 ### Q5. Student with Dynamic Subjects
 <img width="1216" height="688" alt="image" src="https://github.com/user-attachments/assets/4673c52a-90dc-4974-be81-930f5738a4e5" />
 <img width="795" height="347" alt="image" src="https://github.com/user-attachments/assets/2cfcb33b-5a61-4266-92c5-82417fc21457" />
+
 ### OUTPUT 
 <img width="612" height="457" alt="image" src="https://github.com/user-attachments/assets/c737d5d8-c583-431d-b066-a46d2773d801" />
 
