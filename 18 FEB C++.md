@@ -1,4 +1,4 @@
-# C++ PRGRAMS
+# C++ PROGRAMS
 ### Q1. Student Class
 <img width="1160" height="771" alt="image" src="https://github.com/user-attachments/assets/0d4ee401-f4e7-4a73-8091-4a1fadf098a1" />
 
